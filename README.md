@@ -18,6 +18,9 @@ Please post an issue containing the url if you encounter them.
 Adding new host:
 - Follow the format of the list.
 - Include one host per commit.
+- Commit format: add &lt;host&gt; &lt;reasons&gt;
 
 Updating or Removing a host:
 - File an issue first referencing the commit.
+- If no one objects, send a PR.
+- Commit format: update/remove &lt;host&gt; &lt;reasons&gt;
