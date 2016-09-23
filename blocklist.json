@@ -14,5 +14,6 @@
   "theguard1an.com": ["phishing"],
   "popads.net": ["ads"],
   "securemacfix.com": ["ads"],
-  "adsensecustomsearchads.com": ["ads", "analytics"]
+  "adsensecustomsearchads.com": ["ads", "analytics"],
+  "funbagget.info": ["ads"]
 }
