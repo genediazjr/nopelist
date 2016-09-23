@@ -18,5 +18,6 @@
   "funbagget.info": ["ads"],
   "gerwen.info": ["ads"],
   "pocofh.com": ["ads"],
-  "wdcxuezpxivqgmecukeirnsyhjpjoqdqfdtchquwyqatlwxtgq.com": ["malicious"]
+  "wdcxuezpxivqgmecukeirnsyhjpjoqdqfdtchquwyqatlwxtgq.com": ["malicious"],
+  "klaviyo.com": ["analytics"]
 }
