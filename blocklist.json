@@ -11,5 +11,6 @@
   "omtrdc.net": ["analytics"],
   "bizographics.com": ["ads"],
   "thenewline.link": ["malicious"],
-  "theguard1an.com": ["phishing"]
+  "theguard1an.com": ["phishing"],
+  "popads.net": ["ads"]
 }
