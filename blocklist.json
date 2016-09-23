@@ -10,5 +10,6 @@
   "mktoresp.com": ["analytics"],
   "omtrdc.net": ["analytics"],
   "bizographics.com": ["ads"],
-  "thenewline.link": ["malicious"]
+  "thenewline.link": ["malicious"],
+  "theguard1an.com": ["phishing"]
 }
