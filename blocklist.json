@@ -13,5 +13,6 @@
   "thenewline.link": ["malicious"],
   "theguard1an.com": ["phishing"],
   "popads.net": ["ads"],
-  "securemacfix.com": ["ads"]
+  "securemacfix.com": ["ads"],
+  "adsensecustomsearchads.com": ["ads", "analytics"]
 }
