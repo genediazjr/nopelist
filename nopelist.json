@@ -59,5 +59,6 @@
   "optimizely.com": ["analytics"],
   "convertro.com": ["analytics"],
   "segment.com": ["analytics"],
-  "segment.io": ["analytics"]
+  "segment.io": ["analytics"],
+  "thebrighttag.com": ["analytics"]
 }
