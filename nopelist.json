@@ -35,5 +35,6 @@
   "visualrevenue.com": ["ads"],
   "terraclicks.com": ["ads"],
   "statsy.net": ["analytics"],
-  "myip.ms": ["analytics"]
+  "myip.ms": ["analytics"],
+  "scorecardresearch.com": ["analytics"]
 }
