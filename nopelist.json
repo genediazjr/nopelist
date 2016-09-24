@@ -70,5 +70,6 @@
   "mixpanel.com": ["analytics"],
   "sessioncam.com": ["analytics"],
   "igodigital.com": ["analytics"],
-  "boomtrain.com": ["analytics"]
+  "boomtrain.com": ["analytics"],
+  "lijit.com": ["ads", "analytics", "malicious"]
 }
