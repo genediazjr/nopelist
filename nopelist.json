@@ -51,5 +51,6 @@
   "adroll.com": ["ads"],
   "tynt.com": ["analytics"],
   "imrworldwide.com": ["malicious"],
-  "mediamath.com": ["analytics"]
+  "mediamath.com": ["analytics"],
+  "upalytics.com": ["analytics"]
 }
