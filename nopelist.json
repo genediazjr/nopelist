@@ -72,5 +72,6 @@
   "igodigital.com": ["analytics"],
   "boomtrain.com": ["analytics"],
   "lijit.com": ["ads", "analytics", "malicious"],
-  "gaug.es": ["analytics"]
+  "gaug.es": ["analytics"],
+  "tubemogul.com": ["ads"]
 }
