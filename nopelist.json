@@ -80,5 +80,6 @@
   "sail-horizon.com": ["ads"],
   "taboola.com": ["analytics"],
   "researchnow.com": ["analytics"],
-  "visualwebsiteoptimizer.com": ["analytics"]
+  "visualwebsiteoptimizer.com": ["analytics"],
+  "parsely.com": ["analytics"]
 }
