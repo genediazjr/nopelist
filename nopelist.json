@@ -60,5 +60,6 @@
   "convertro.com": ["analytics"],
   "segment.com": ["analytics"],
   "segment.io": ["analytics"],
-  "thebrighttag.com": ["analytics"]
+  "thebrighttag.com": ["analytics"],
+  "mxpnl.com": ["analytics"]
 }
