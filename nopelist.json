@@ -81,5 +81,6 @@
   "taboola.com": ["analytics"],
   "researchnow.com": ["analytics"],
   "visualwebsiteoptimizer.com": ["analytics"],
-  "parsely.com": ["analytics"]
+  "parsely.com": ["analytics"],
+  "fallingfalcon.com": ["malicious"]
 }
