@@ -52,5 +52,6 @@
   "tynt.com": ["analytics"],
   "imrworldwide.com": ["malicious"],
   "mediamath.com": ["analytics"],
-  "upalytics.com": ["analytics"]
+  "upalytics.com": ["analytics"],
+  "quantserve.com": ["analytics"]
 }
