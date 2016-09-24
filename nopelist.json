@@ -74,5 +74,6 @@
   "lijit.com": ["ads", "analytics", "malicious"],
   "gaug.es": ["analytics"],
   "tubemogul.com": ["ads"],
-  "grader.com": ["analytics"]
+  "grader.com": ["analytics"],
+  "rubiconproject.com": ["ads", "analytics"]
 }
