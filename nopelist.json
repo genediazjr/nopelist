@@ -54,5 +54,6 @@
   "mediamath.com": ["analytics"],
   "upalytics.com": ["analytics"],
   "quantserve.com": ["analytics"],
-  "intercomassets.com": ["analytics"]
+  "intercomassets.com": ["analytics"],
+  "pagefair.com": ["ads"]
 }
