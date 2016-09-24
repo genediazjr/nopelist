@@ -55,5 +55,6 @@
   "upalytics.com": ["analytics"],
   "quantserve.com": ["analytics"],
   "intercomassets.com": ["analytics"],
-  "pagefair.com": ["ads"]
+  "pagefair.com": ["ads"],
+  "optimizely.com": ["analytics"]
 }
