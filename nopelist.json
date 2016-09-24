@@ -77,5 +77,6 @@
   "grader.com": ["analytics"],
   "rubiconproject.com": ["ads", "analytics"],
   "skimresources.com": ["ads", "analytics"],
-  "sail-horizon.com": ["ads"]
+  "sail-horizon.com": ["ads"],
+  "taboola.com": ["analytics"]
 }
