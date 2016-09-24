@@ -57,5 +57,6 @@
   "intercomassets.com": ["analytics"],
   "pagefair.com": ["ads"],
   "optimizely.com": ["analytics"],
-  "convertro.com": ["analytics"]
+  "convertro.com": ["analytics"],
+  "segment.com": ["analytics"]
 }
