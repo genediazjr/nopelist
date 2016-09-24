@@ -50,5 +50,6 @@
   "bulletproofserving.com": ["ads"],
   "adroll.com": ["ads"],
   "tynt.com": ["analytics"],
-  "imrworldwide.com": ["malicious"]
+  "imrworldwide.com": ["malicious"],
+  "mediamath.com": ["analytics"]
 }
