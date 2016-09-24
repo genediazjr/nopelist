@@ -76,5 +76,6 @@
   "tubemogul.com": ["ads"],
   "grader.com": ["analytics"],
   "rubiconproject.com": ["ads", "analytics"],
-  "skimresources.com": ["ads", "analytics"]
+  "skimresources.com": ["ads", "analytics"],
+  "sail-horizon.com": ["ads"]
 }
