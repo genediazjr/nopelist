@@ -64,5 +64,6 @@
   "mxpnl.com": ["analytics"],
   "yadro.ru": ["analytics"],
   "adxprts.com": ["ads"],
-  "dynamicyield.com": ["analytics"]
+  "dynamicyield.com": ["analytics"],
+  "adzerk.net": ["ads", "analytics"]
 }
