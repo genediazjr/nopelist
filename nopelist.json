@@ -61,5 +61,6 @@
   "segment.com": ["analytics"],
   "segment.io": ["analytics"],
   "thebrighttag.com": ["analytics"],
-  "mxpnl.com": ["analytics"]
+  "mxpnl.com": ["analytics"],
+  "yadro.ru": ["analytics"]
 }
