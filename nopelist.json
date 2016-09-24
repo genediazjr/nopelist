@@ -75,5 +75,6 @@
   "gaug.es": ["analytics"],
   "tubemogul.com": ["ads"],
   "grader.com": ["analytics"],
-  "rubiconproject.com": ["ads", "analytics"]
+  "rubiconproject.com": ["ads", "analytics"],
+  "skimresources.com": ["ads", "analytics"]
 }
