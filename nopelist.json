@@ -37,5 +37,6 @@
   "statsy.net": ["analytics"],
   "myip.ms": ["analytics"],
   "scorecardresearch.com": ["analytics"],
-  "agkn.com": ["ads"]
+  "agkn.com": ["ads"],
+  "statcounter.com": ["analytics"]
 }
