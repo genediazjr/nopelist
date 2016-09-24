@@ -69,5 +69,6 @@
   "cxense.com": ["ads", "analytics"],
   "mixpanel.com": ["analytics"],
   "sessioncam.com": ["analytics"],
-  "igodigital.com": ["analytics"]
+  "igodigital.com": ["analytics"],
+  "boomtrain.com": ["analytics"]
 }
