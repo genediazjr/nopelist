@@ -68,5 +68,6 @@
   "adzerk.net": ["ads", "analytics"],
   "cxense.com": ["ads", "analytics"],
   "mixpanel.com": ["analytics"],
-  "sessioncam.com": ["analytics"]
+  "sessioncam.com": ["analytics"],
+  "igodigital.com": ["analytics"]
 }
