@@ -58,5 +58,6 @@
   "pagefair.com": ["ads"],
   "optimizely.com": ["analytics"],
   "convertro.com": ["analytics"],
-  "segment.com": ["analytics"]
+  "segment.com": ["analytics"],
+  "segment.io": ["analytics"]
 }
