@@ -67,5 +67,6 @@
   "dynamicyield.com": ["analytics"],
   "adzerk.net": ["ads", "analytics"],
   "cxense.com": ["ads", "analytics"],
-  "mixpanel.com": ["analytics"]
+  "mixpanel.com": ["analytics"],
+  "sessioncam.com": ["analytics"]
 }
