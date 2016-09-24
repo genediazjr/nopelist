@@ -71,5 +71,6 @@
   "sessioncam.com": ["analytics"],
   "igodigital.com": ["analytics"],
   "boomtrain.com": ["analytics"],
-  "lijit.com": ["ads", "analytics", "malicious"]
+  "lijit.com": ["ads", "analytics", "malicious"],
+  "gaug.es": ["analytics"]
 }
