@@ -56,5 +56,6 @@
   "quantserve.com": ["analytics"],
   "intercomassets.com": ["analytics"],
   "pagefair.com": ["ads"],
-  "optimizely.com": ["analytics"]
+  "optimizely.com": ["analytics"],
+  "convertro.com": ["analytics"]
 }
