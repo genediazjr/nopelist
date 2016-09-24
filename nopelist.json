@@ -73,5 +73,6 @@
   "boomtrain.com": ["analytics"],
   "lijit.com": ["ads", "analytics", "malicious"],
   "gaug.es": ["analytics"],
-  "tubemogul.com": ["ads"]
+  "tubemogul.com": ["ads"],
+  "grader.com": ["analytics"]
 }
