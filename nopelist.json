@@ -100,5 +100,6 @@
   "pubmatic.com": ["ads", "analytics"],
   "atdmt.com": ["analytics"],
   "kissmetrics.com": ["analytics"],
-  "trackjs.com": ["analytics"]
+  "trackjs.com": ["analytics"],
+  "demandbase.com": ["ads", "analytics"]
 }
