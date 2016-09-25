@@ -92,5 +92,6 @@
   "ophan.co.uk": ["analytics"],
   "geoadnxs.com": ["ads"],
   "onthe.io": ["analytics"],
-  "doubleclick.net": ["ads"]
+  "doubleclick.net": ["ads"],
+  "bluekai.com": ["ads", "analytics"]
 }
