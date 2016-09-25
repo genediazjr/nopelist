@@ -88,5 +88,6 @@
   "criteo.net": ["ads"],
   "marketo.com": ["ads"],
   "mouseflow.com": ["analytics"],
-  "richrelevance.com": ["analytics"]
+  "richrelevance.com": ["analytics"],
+  "ophan.co.uk": ["analytics"]
 }
