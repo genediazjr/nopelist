@@ -87,5 +87,6 @@
   "amplitude.com": ["analytics"],
   "criteo.net": ["ads"],
   "marketo.com": ["ads"],
-  "mouseflow.com": ["analytics"]
+  "mouseflow.com": ["analytics"],
+  "richrelevance.com": ["analytics"]
 }
