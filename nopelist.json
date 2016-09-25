@@ -94,5 +94,6 @@
   "onthe.io": ["analytics"],
   "doubleclick.net": ["ads"],
   "bluekai.com": ["ads", "analytics"],
-  "chartbeat.net": ["analytics"]
+  "chartbeat.net": ["analytics"],
+  "adnxs.com": ["ads"]
 }
