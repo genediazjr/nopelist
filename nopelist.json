@@ -86,5 +86,6 @@
   "adserver.andyroid.net": ["ads"],
   "amplitude.com": ["analytics"],
   "criteo.net": ["ads"],
-  "marketo.com": ["ads"]
+  "marketo.com": ["ads"],
+  "mouseflow.com": ["analytics"]
 }
