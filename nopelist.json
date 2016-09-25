@@ -98,5 +98,6 @@
   "adnxs.com": ["ads"],
   "hubspot.com": ["ads", "analytics"],
   "pubmatic.com": ["ads", "analytics"],
-  "atdmt.com": ["analytics"]
+  "atdmt.com": ["analytics"],
+  "kissmetrics.com": ["analytics"]
 }
