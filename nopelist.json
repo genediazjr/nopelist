@@ -99,5 +99,6 @@
   "hubspot.com": ["ads", "analytics"],
   "pubmatic.com": ["ads", "analytics"],
   "atdmt.com": ["analytics"],
-  "kissmetrics.com": ["analytics"]
+  "kissmetrics.com": ["analytics"],
+  "trackjs.com": ["analytics"]
 }
