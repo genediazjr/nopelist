@@ -97,5 +97,6 @@
   "chartbeat.net": ["analytics"],
   "adnxs.com": ["ads"],
   "hubspot.com": ["ads", "analytics"],
-  "pubmatic.com": ["ads", "analytics"]
+  "pubmatic.com": ["ads", "analytics"],
+  "atdmt.com": ["analytics"]
 }
