@@ -85,5 +85,6 @@
   "fallingfalcon.com": ["malicious"],
   "adserver.andyroid.net": ["ads"],
   "amplitude.com": ["analytics"],
-  "criteo.net": ["ads"]
+  "criteo.net": ["ads"],
+  "marketo.com": ["ads"]
 }
