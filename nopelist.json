@@ -89,5 +89,6 @@
   "marketo.com": ["ads"],
   "mouseflow.com": ["analytics"],
   "richrelevance.com": ["analytics"],
-  "ophan.co.uk": ["analytics"]
+  "ophan.co.uk": ["analytics"],
+  "geoadnxs.com": ["ads"]
 }
