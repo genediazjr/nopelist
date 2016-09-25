@@ -95,5 +95,6 @@
   "doubleclick.net": ["ads"],
   "bluekai.com": ["ads", "analytics"],
   "chartbeat.net": ["analytics"],
-  "adnxs.com": ["ads"]
+  "adnxs.com": ["ads"],
+  "hubspot.com": ["ads", "analytics"]
 }
