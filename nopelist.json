@@ -82,5 +82,6 @@
   "researchnow.com": ["analytics"],
   "visualwebsiteoptimizer.com": ["analytics"],
   "parsely.com": ["analytics"],
-  "fallingfalcon.com": ["malicious"]
+  "fallingfalcon.com": ["malicious"],
+  "adserver.andyroid.net": ["ads"]
 }
