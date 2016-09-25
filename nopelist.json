@@ -96,5 +96,6 @@
   "bluekai.com": ["ads", "analytics"],
   "chartbeat.net": ["analytics"],
   "adnxs.com": ["ads"],
-  "hubspot.com": ["ads", "analytics"]
+  "hubspot.com": ["ads", "analytics"],
+  "pubmatic.com": ["ads", "analytics"]
 }
