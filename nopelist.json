@@ -91,5 +91,6 @@
   "richrelevance.com": ["analytics"],
   "ophan.co.uk": ["analytics"],
   "geoadnxs.com": ["ads"],
-  "onthe.io": ["analytics"]
+  "onthe.io": ["analytics"],
+  "doubleclick.net": ["ads"]
 }
