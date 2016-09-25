@@ -83,5 +83,6 @@
   "visualwebsiteoptimizer.com": ["analytics"],
   "parsely.com": ["analytics"],
   "fallingfalcon.com": ["malicious"],
-  "adserver.andyroid.net": ["ads"]
+  "adserver.andyroid.net": ["ads"],
+  "amplitude.com": ["analytics"]
 }
