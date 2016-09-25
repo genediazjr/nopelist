@@ -93,5 +93,6 @@
   "geoadnxs.com": ["ads"],
   "onthe.io": ["analytics"],
   "doubleclick.net": ["ads"],
-  "bluekai.com": ["ads", "analytics"]
+  "bluekai.com": ["ads", "analytics"],
+  "chartbeat.net": ["analytics"]
 }
