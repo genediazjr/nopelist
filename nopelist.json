@@ -101,5 +101,6 @@
   "atdmt.com": ["analytics"],
   "kissmetrics.com": ["analytics"],
   "trackjs.com": ["analytics"],
-  "demandbase.com": ["ads", "analytics"]
+  "demandbase.com": ["ads", "analytics"],
+  "eloqua.com": ["ads", "analytics"]
 }
