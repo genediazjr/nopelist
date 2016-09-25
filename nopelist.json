@@ -102,5 +102,6 @@
   "kissmetrics.com": ["analytics"],
   "trackjs.com": ["analytics"],
   "demandbase.com": ["ads", "analytics"],
-  "eloqua.com": ["ads", "analytics"]
+  "eloqua.com": ["ads", "analytics"],
+  "errorception.com": ["analytics"]
 }
