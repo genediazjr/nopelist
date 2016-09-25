@@ -103,5 +103,6 @@
   "trackjs.com": ["analytics"],
   "demandbase.com": ["ads", "analytics"],
   "eloqua.com": ["ads", "analytics"],
-  "errorception.com": ["analytics"]
+  "errorception.com": ["analytics"],
+  "bugsnag.com": ["analytics"]
 }
