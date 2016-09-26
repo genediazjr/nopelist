@@ -104,5 +104,6 @@
   "demandbase.com": ["ads", "analytics"],
   "eloqua.com": ["ads", "analytics"],
   "errorception.com": ["analytics"],
-  "bugsnag.com": ["analytics"]
+  "bugsnag.com": ["analytics"],
+  "livejasmin.com": ["ads"]
 }
