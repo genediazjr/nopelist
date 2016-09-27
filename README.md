@@ -1,7 +1,7 @@
 Nopelist
 =======
 
-A community maintained list of blocked hosts due to the following reasons:
+A crowd-sourced list of blocked hosts due to the following reasons:
 
 - Ads
 - Phishing
