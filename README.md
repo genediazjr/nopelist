@@ -6,15 +6,9 @@ A personal filter list. Each host is either an ad, phishing, malicious, analytic
 ### Usage
 
 If you are using [ublock](https://www.ublock.org/), [adblock](https://www.getadblock.com/), or [adblockplus](https://adblockplus.org/),
-you can import this as a custom filter using 
+you can import this as a custom filter using this url `https://raw.githubusercontent.com/genediazjr/nopelist/master/nopelist.txt`
 
-this url `https://raw.githubusercontent.com/genediazjr/nopelist/master/nopelist.txt`
-
-You may use this list for any purpose. Such use may include browser blockers, firewalls and proxies.
-
-Blocking some of these hosts may cause some website to load incorrectly or not load at all.
-
-Please post an issue containing the url if you encounter them.
+You may use this list for any purpose. Such use may include browser blockers, firewalls and proxies. This filter list may cause some website to load incorrectly or not load at all. Please post an issue containing the url if you encounter any them.
 
 ### Contributing
 
