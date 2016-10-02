@@ -27,3 +27,8 @@ Updating or Removing a host:
 - File an issue first referencing the commit.
 - If no one objects, send a PR.
 - Commit format: update/remove &lt;host&gt; &lt;reasons&gt;
+
+You may use the following tools:
+- [Redundant Rule Checker](https://arestwo.org/famlam/redundantRuleChecker.html)
+- [Adblock Syntax](https://adblockplus.org/filters)
+- [Regex Visualizer](http://www.regexper.com/)
