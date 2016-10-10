@@ -107,5 +107,6 @@
   "bugsnag.com": ["analytics"],
   "livejasmin.com": ["ads"],
   "xuwptpzdwyaw.com": ["ads"],
-  "cdveeechegws.com": ["ads"]
+  "cdveeechegws.com": ["ads"],
+  "click4stat.com": ["ads", "analytics"]
 }
