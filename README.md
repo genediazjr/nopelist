@@ -1,17 +1,15 @@
-Nopelist
-=======
-
+# ![x](https://raw.githubusercontent.com/genediazjr/nopelist/master/docs/logo_mini.png) Nopelist
 A personal filter list. Each host is either an ad, phishing, malicious, analytics, or clickbait.
 
 ### Usage
-
 If you are using [ublock](https://www.ublock.org/), [adblock](https://www.getadblock.com/), or [adblockplus](https://adblockplus.org/),
-you can import this as a custom filter using this url `https://raw.githubusercontent.com/genediazjr/nopelist/master/nopelist.txt`
+you can import this as a custom filter using<br>this url `https://raw.githubusercontent.com/genediazjr/nopelist/master/nopelist.txt`
 
-You may use this list for any purpose. Such use may include browser blockers, firewalls and proxies. This filter list may cause some website to load incorrectly or not load at all. Please post an issue containing the url if you encounter any them.
+You may use this list for any purpose. Such use may include browser blockers, firewalls and proxies.<br>
+This filter list may cause some website to load incorrectly or not load at all.<br>
+Please post an issue containing the url if you encounter any them.
 
 ### Contributing
-
 Adding new host:
 - Follow the format of the list.
 - Include one host per commit.
