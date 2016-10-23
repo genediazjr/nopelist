@@ -1,4 +1,4 @@
-# ![x](https://raw.githubusercontent.com/genediazjr/nopelist/master/docs/logo_mini.png) Nopelist
+# <a href='https://github.com/genediazjr/nopelist'><img src='https://raw.githubusercontent.com/genediazjr/nopelist/master/docs/logo_readme.png' alt="Nopelist" width='256'></a>
 A personal filter list. Each host is either an ad, phishing, malicious, analytics, or clickbait.
 
 ### Usage
