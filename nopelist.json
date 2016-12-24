@@ -150,5 +150,6 @@
   "qpcyafunjtir.com": ["ads"],
   "chinesean.com": ["ads", "analytics"],
   "azditojzcdkc.com": ["ads"],
-  "bhyqllgtzjee.com": ["ads"]
+  "bhyqllgtzjee.com": ["ads"],
+  "backclick.net": ["malicious"]
 }
